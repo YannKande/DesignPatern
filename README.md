@@ -7,4 +7,6 @@ An example of a mobile money payment application from Afrique DRC.
 for questions write to me on:
 yannickkandee@gmail.com
 
-rest SpringBoot Master FullStack 2023 coming soon
+rest SpringBoot Master FullStack 2023 coming soon 
+
+find my youtube channel yannick kande
